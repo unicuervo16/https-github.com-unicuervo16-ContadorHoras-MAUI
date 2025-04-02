@@ -69,4 +69,8 @@
 	  </MauiXaml>
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="docs\" />
+	</ItemGroup>
+
 </Project>
