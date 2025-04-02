@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Contador_de_Horas.Pages.MainPage"
+             Title="Contador de Horas">
+
+    <VerticalStackLayout Padding="20" Spacing="15">
+
+        <Button Text="Ver historial semanal" Clicked="OnVerHistorialClicked" />
+
+        <Label x:Name="labelFecha" FontSize="20" HorizontalOptions="Center" />
+
+        <Label x:Name="labelIngreso" Text="Ingreso: --:--" FontSize="18" />
+        <Label x:Name="labelEgreso" Text="Egreso: --:--" FontSize="18" />
+        <Label x:Name="labelTotal" Text="Total trabajado: --:--" FontSize="18" FontAttributes="Bold" />
+
+        <Button Text="Registrar Ingreso" Clicked="OnRegistrarIngresoClicked" />
+        <Button Text="Registrar Egreso" Clicked="OnRegistrarEgresoClicked" />
+
+    </VerticalStackLayout>
+</ContentPage>
+
+
