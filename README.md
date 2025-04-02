@@ -19,7 +19,13 @@ App móvil simple hecha en **.NET MAUI** para registrar tu jornada laboral diari
 
 | Home | Historial |
 |------|-----------|
-| ![home](docs/home.png) | ![historial](docs/historial.png) |
+| ![home](docs/home.jpeg) | ![historial](docs/historial.jpeg) |
+
+### 💻 Emulador y Código
+
+| Emulador Android | Código MAUI |
+|------------------|-------------|
+| ![emulador](docs/emulador.png) | ![code](docs/code.png) |
 
 ## 🛠 Instalación
 1. Cloná el repo
