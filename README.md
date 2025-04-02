@@ -33,4 +33,4 @@ App móvil simple hecha en **.NET MAUI** para registrar tu jornada laboral diari
 3. Ejecutá en emulador o teléfono Android
 
 ## 🔐 Licencia
-MIT
+Joel Garbagnate
